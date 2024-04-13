@@ -30,7 +30,7 @@ class CreateNoteActivity : AppCompatActivity() {
                 val title = inp_title.text.toString()
                 val description = inp_description.text.toString()
                 if (title.isNotEmpty() && description.isNotEmpty()) {
-                    noteViewModel.createNote(title, description)
+                    //noteViewModel.createNote(title, description)
                     finish()
                 }
             }

@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, CreateNoteActivity::class.java)
             startActivity(intent)
         }
+
     }
 
     override fun onResume() {

@@ -6,8 +6,8 @@
     <string name="btn_edit_main">Editar</string>
     <string name="btn_delete_main">Eliminar</string>
     <string name="btn_add_main">+ Agregar</string>
+    <string name="btn_view_main">Ver</string>
     <string name="text_example">example</string>
-
 
 
     <!--    Activity Create / Update-->

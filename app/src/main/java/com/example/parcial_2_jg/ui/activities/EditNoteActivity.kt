@@ -39,7 +39,7 @@ class EditNoteActivity : AppCompatActivity() {
                 val content = inp_content.text.toString()
 
                 if (title.isNotEmpty() && content.isNotEmpty()) {
-                    noteViewModel.updateNote(id_note, title, content)
+                    //noteViewModel.updateNote(id_note, title, content)
                     finish()
                 }
             }
